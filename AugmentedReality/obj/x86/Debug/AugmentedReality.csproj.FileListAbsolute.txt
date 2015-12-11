@@ -1,0 +1,13 @@
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.exe.config
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.exe
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.pdb
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.Form1.resources
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.Properties.Resources.resources
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.exe
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.pdb
+C:\Users\User\Desktop\AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.exe.config
+C:\Users\User\Desktop\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.exe
+C:\Users\User\Desktop\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.pdb
