@@ -1,6 +1,6 @@
 ﻿namespace AugmentedReality
 {
-    partial class Form1
+    partial class ARForm
     {
         /// <summary>
         /// Required designer variable.
@@ -78,8 +78,8 @@
             this.Controls.Add(this.cmbOption);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "ARForm";
+            this.Text = "Augmented Reality using C# and OpenCV";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

@@ -12,12 +12,12 @@ using OpenCvSharp;
 
 namespace AugmentedReality
 {
-    public partial class Form1 : Form
+    public partial class ARForm : Form
     {
         private Thread _thread;
         private int _option;
 
-        public Form1()
+        public ARForm()
         {
             InitializeComponent();
         }

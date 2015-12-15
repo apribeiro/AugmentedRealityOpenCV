@@ -11,3 +11,11 @@ C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\Augmented
 C:\Users\User\Desktop\AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.exe.config
 C:\Users\User\Desktop\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.exe
 C:\Users\User\Desktop\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.pdb
+C:\Users\User\git\AugmentedRealityOpenCV\AugmentedReality\bin\Debug\AugmentedReality.exe.config
+C:\Users\User\git\AugmentedRealityOpenCV\AugmentedReality\bin\Debug\AugmentedReality.exe
+C:\Users\User\git\AugmentedRealityOpenCV\AugmentedReality\bin\Debug\AugmentedReality.pdb
+C:\Users\User\git\AugmentedRealityOpenCV\AugmentedReality\obj\x86\Debug\AugmentedReality.ARForm.resources
+C:\Users\User\git\AugmentedRealityOpenCV\AugmentedReality\obj\x86\Debug\AugmentedReality.Properties.Resources.resources
+C:\Users\User\git\AugmentedRealityOpenCV\AugmentedReality\obj\x86\Debug\AugmentedReality.csproj.GenerateResource.Cache
+C:\Users\User\git\AugmentedRealityOpenCV\AugmentedReality\obj\x86\Debug\AugmentedReality.exe
+C:\Users\User\git\AugmentedRealityOpenCV\AugmentedReality\obj\x86\Debug\AugmentedReality.pdb
